@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200 # or 404, depending on your needs
